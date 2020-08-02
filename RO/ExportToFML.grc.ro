@@ -1,0 +1,6 @@
+
+############################## This file was created by GRC compiler ##############################################
+#
+# Source file: /Applications/GRAPHISOFT ARCHICAD API DevKit 22.3004/Examples/ExportToFML/RO/ExportToFML.grc.ro.i        Code table: NUL              #
+######## Version 2.0 - Macintosh ##################### (c) 1996-2020 by GRAPHISOFT ############################
+GSSTRINGSDepends [ GSFiles $(bundleLocResDir) : "Localizable.strings" ] : $(rsrdlogDone) ;

@@ -1,0 +1,1 @@
+STR#, 32000, "Add-On Name and Description"STR#, 32500, "File type strings"

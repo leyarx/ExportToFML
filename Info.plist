@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>ExportToFML</string>
+	<key>CFBundleIdentifier</key>
+	<string>leyarx.ExportToFML</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleGetInfoString</key>
+	<string>ExportToFML version 22, Copyright © 2019 by ___VARIABLE_organizationName___.  All rights reserved.</string>
+	<key>LSRequiresCarbon</key>
+	<true/>
+	<key>CFBundlePackageType</key>
+	<string>.APX</string>
+	<key>CFBundleSignature</key>
+	<string>GSAP</string>
+	<key>CFBundleIconFile</key>
+	<string>ArchiCADPlugin.icns</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.11.0</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleShortVersionString</key>
+	<string>ExportToFML version 22</string>
+</dict>
+</plist>

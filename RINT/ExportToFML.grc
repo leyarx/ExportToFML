@@ -1,0 +1,13 @@
+﻿/**
+ * @file Localizable resource description for the ExportToFML Add-On
+ */
+
+
+'STR#' 32000 "Add-On Name and Description" {
+/* [  1] */		"ExportToFML"
+/* [  2] */		"ExportToFML add-on ..."
+}
+
+'STR#' 32500 "File type strings" {
+/* [  1] */        "FML File (floorplanner.com)"
+}
